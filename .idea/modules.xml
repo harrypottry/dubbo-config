@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataBaseDriver/DataBaseDriver.iml" filepath="$PROJECT_DIR$/DataBaseDriver/DataBaseDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MysqlDriver/MysqlDriver.iml" filepath="$PROJECT_DIR$/MysqlDriver/MysqlDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OracleDriver/OracleDriver.iml" filepath="$PROJECT_DIR$/OracleDriver/OracleDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-client/dubbo-client.iml" filepath="$PROJECT_DIR$/dubbo-client/dubbo-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dubbo-config.iml" filepath="$PROJECT_DIR$/.idea/dubbo-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-server/dubbo-server.iml" filepath="$PROJECT_DIR$/dubbo-server/dubbo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-server/server-api/server-api.iml" filepath="$PROJECT_DIR$/dubbo-server/server-api/server-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-server/server-provider/server-provider.iml" filepath="$PROJECT_DIR$/dubbo-server/server-provider/server-provider.iml" />
+    </modules>
+  </component>
+</project>
