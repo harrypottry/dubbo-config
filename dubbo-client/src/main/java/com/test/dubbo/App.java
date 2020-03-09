@@ -1,6 +1,5 @@
 package com.test.dubbo;
 
-import com.alibaba.dubbo.common.utils.NetUtils;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
